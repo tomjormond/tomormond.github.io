@@ -1,11 +1,5 @@
 title: Tom Ormond Photography
-description: Nature photography from Ireland and beyond
 remote_theme: mmistakes/minimal-mistakes
 
 plugins:
 - jekyll-include-cache
-
-minimal_mistakes_skin: dark
-
-author:
-  name: Tom Ormond
