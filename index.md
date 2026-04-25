@@ -1,8 +1,19 @@
 ---
-layout: home
-title: Home
+layout: splash
+title: Tom Ormond Photography
+
+header:
+  overlay_image: /assets/images/hero.jpg
+  caption: "Nature Photography"
+
+feature_row:
+- image_path: /assets/images/landscape.jpg
+  title: Landscapes
+- image_path: /assets/images/wildlife.jpg
+  title: Wildlife
+- image_path: /assets/images/macro.jpg
+  title: Macro
+
 ---
 
-# Tom Ormond Photography
-
-Nature photography from Ireland and beyond.
+{% include feature_row %}
